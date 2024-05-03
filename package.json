@@ -1,0 +1,38 @@
+{
+  "name": "prj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0_index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhkeller/prj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhkeller/prj/issues"
+  },
+  "homepage": "https://github.com/mhkeller/prj#readme",
+  "dependencies": {
+    "@mhkeller/notify": "^1.2.0",
+    "@mhkeller/plot": "^3.1.0",
+    "@mhkeller/utils": "^5.2.0",
+    "arquero": "^5.4.0",
+    "indian-ocean": "^4.0.3",
+    "vega-lite-api": "^5.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-semistandard": "^17.0.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
