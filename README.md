@@ -17,7 +17,11 @@ https://github.com/mhkeller/interactive-nodejs/assets/498744/da8d7eda-6eb7-4d71-
 
 ## Demo showing the REPL to do interactive programming
 
-https://github.com/mhkeller/interactive-nodejs/assets/498744/00e4b819-6013-4706-be0d-8dca465a46a8
+
+
+https://github.com/mhkeller/interactive-nodejs/assets/498744/44097a73-f946-45ad-91e8-f903bfc73e39
+
+
 
 ### Running
 
