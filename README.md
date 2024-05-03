@@ -13,11 +13,11 @@ npx playwright install
 
 ## Demo overview
 
-https://github.com/mhkeller/interactive-nodejs/assets/498744/1b2cb970-583b-40ee-bd96-a211792a016d
+https://github.com/mhkeller/interactive-nodejs/assets/498744/da8d7eda-6eb7-4d71-b876-7194a2490495
 
 ## Demo showing the REPL to do interactive programming
 
-![Demo 2](assets/demo-2.mov)
+https://github.com/mhkeller/interactive-nodejs/assets/498744/00e4b819-6013-4706-be0d-8dca465a46a8
 
 ### Running
 
