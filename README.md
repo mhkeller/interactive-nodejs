@@ -40,3 +40,4 @@ In this example, we analyze data of Olympic gold medalists, launch a bar chart o
 
 The UX of the VS Code REPL is not ideal and does not match the Google Chrome behavior. The issue is [tracked here](https://github.com/microsoft/vscode/issues/169798) but is in the backlog.
 
+It would also be nice if you could drag the REPL input area to be taller.
