@@ -7,7 +7,7 @@ Interactive Node.js
 
 ```sh
 npm install
-# You may also need to do...
+# You may also need to do this for the plots...
 npx playwright install 
 ```
 
