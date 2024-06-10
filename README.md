@@ -32,9 +32,12 @@ https://github.com/mhkeller/interactive-nodejs/assets/498744/ffefac18-a116-49b9-
 
 The [`.vscode/launch.json`](.vscode/launch.json) config file will run whatever file is currently in view in debug mode, which means it stops whenever it encounters a `debugger` line.
 
-When your script is in a final state, you can simply execute it with `node index.js` and it will skip over the `debugger` statements.
+When your script is in a final state, you can **simply execute it with `node index.js`** and it will skip over the `debugger` statements.
 
 In this example, we analyze data of Olympic gold medalists, launch a bar chart of the top 10 countries and also write that chart to a PNG.
+
+> [!TIP]
+> If you haven't set up your `launch.json` file to use <kbd>F5</kbd>, you can also launch a script in debugger mode using the `--inspect` flag, e.g. `node --inspect index.js`. 
 
 ### Limitations
 
